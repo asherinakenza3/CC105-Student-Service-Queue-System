@@ -2,7 +2,7 @@
 University Student Service & Queue System
 
 Members: Maguigad, William; Protacio, Santino Adelrey; Artista, Ashanti P.
-Group number: N/A
+
 
 ## Build and run (VS Code / Windows PowerShell)
 ```powershell
