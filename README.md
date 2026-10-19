@@ -16,7 +16,4 @@ Doubly linked registry; linked undo stack; FIFO and priority queues; linear and 
 
 ## Evidence
 `Testing_Report.docx` and `Evidence_Screenshots.zip` contain screenshot-supported tests and benchmark data.
-`Official_Worksheet_Answer_Draft.docx` contains page-by-page worksheet answers; entries without evidence are explicitly PENDING.
 
-## Must still be done by the group
-Create GitHub repository and have every member make genuine technical commits; collect real signatures and actual contribution percentages; run independent memory diagnostics; capture missing benchmark rows and prepare for individual defense.
